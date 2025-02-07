@@ -1,4 +1,4 @@
-version: 2
+conversionRate: 2.4
 
 updates:
   - package-ecosystem: npm
